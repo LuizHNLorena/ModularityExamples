@@ -1,1 +1,3 @@
 # ModularityExamples
+
+[example](netscience.html)
